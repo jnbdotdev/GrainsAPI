@@ -6,16 +6,16 @@ A GrainsAPI é uma API que permite a criação e consulta de parcelas geográfic
 
 ## **Índice**
 
-1.  [Pré-requisitos](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#pr%C3%A9-requisitos)
-2.  [Instalação](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#instala%C3%A7%C3%A3o)
-3.  [Configuração do Banco de Dados](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#configura%C3%A7%C3%A3o-do-banco-de-dados)
-4.  [Executando a API](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#executando-a-api)
-5.  [Endpoints](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#endpoints)
-    -   [POST /parcels](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#post-parcels)
-    -   [GET /parcels](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#get-parcels)
-6.  [Estrutura do Projeto](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#estrutura-do-projeto)
-7.  [Testes Automatizados](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#testes-automatizados)
-8.  [Contribuindo](https://chatgpt.com/c/677babc3-e094-800e-946b-601bde2e5f1e#contribuindo)
+1.  Pré-requisitos
+2.  Instalação
+3.  Configuração do Banco de Dados
+4.  Executando a API
+5.  Endpoints
+    -   POST /parcels
+    -   GET /parcels
+6.  Estrutura do Projeto
+7.  Testes Automatizados
+8.  Contribuindo
 
 ----------
 
